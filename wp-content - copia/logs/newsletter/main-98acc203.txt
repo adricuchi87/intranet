@@ -1,0 +1,13 @@
+02-06-2015 15:35:12 - ERROR - 48,9 MB - mail> SMTP connect() failed.
+02-06-2015 15:35:27 - ERROR - 48,9 MB - mail> SMTP connect() failed.
+02-06-2015 15:35:42 - ERROR - 48,9 MB - mail> SMTP connect() failed.
+02-06-2015 15:37:00 - ERROR - 48,9 MB - mail> SMTP connect() failed.
+02-06-2015 15:37:15 - ERROR - 48,9 MB - mail> SMTP connect() failed.
+02-06-2015 15:37:30 - ERROR - 48,9 MB - mail> SMTP connect() failed.
+02-06-2015 17:03:08 - ERROR - 37,6 MB - mail> SMTP connect() failed.
+10-06-2015 16:39:46 - ERROR - 49,0 MB - mail> You must provide at least one recipient email address.
+10-06-2015 16:39:46 - ERROR - 49,0 MB - mail> You must provide at least one recipient email address.
+10-06-2015 16:39:46 - ERROR - 49,0 MB - mail> You must provide at least one recipient email address.
+10-06-2015 16:40:17 - ERROR - 49,0 MB - mail> SMTP connect() failed.
+10-06-2015 16:40:32 - ERROR - 49,0 MB - mail> SMTP connect() failed.
+10-06-2015 16:40:47 - ERROR - 49,0 MB - mail> SMTP connect() failed.

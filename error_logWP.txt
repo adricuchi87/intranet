@@ -1,0 +1,972 @@
+[24-Feb-2017 14:45:13 UTC] PHP Warning:  move_uploaded_file(/var/www/intranet/wp-content/plugins/birthdays-widget/uploads/cumpleañeros de febrero.csv): failed to open stream: Permission denied in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget-settings.php on line 1360
+[24-Feb-2017 14:45:13 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpPY8Nad' to '/var/www/intranet/wp-content/plugins/birthdays-widget/uploads/cumpleañeros de febrero.csv' in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget-settings.php on line 1360
+[24-Feb-2017 14:46:49 UTC] PHP Notice:  Undefined offset: 2 in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget-settings.php on line 1374
+[24-Feb-2017 14:46:49 UTC] PHP Notice:  Undefined offset: 2 in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget-settings.php on line 1374
+[24-Feb-2017 14:46:49 UTC] PHP Notice:  Undefined offset: 2 in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget-settings.php on line 1374
+[24-Feb-2017 14:46:49 UTC] PHP Notice:  Undefined offset: 2 in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget-settings.php on line 1374
+[24-Feb-2017 14:46:49 UTC] PHP Notice:  Undefined offset: 2 in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget-settings.php on line 1374
+[24-Feb-2017 14:46:49 UTC] PHP Notice:  Undefined offset: 2 in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget-settings.php on line 1374
+[24-Feb-2017 14:46:49 UTC] PHP Notice:  Undefined offset: 2 in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget-settings.php on line 1374
+[24-Feb-2017 14:46:49 UTC] PHP Notice:  Undefined offset: 2 in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget-settings.php on line 1374
+[24-Feb-2017 14:46:49 UTC] PHP Notice:  Undefined offset: 2 in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget-settings.php on line 1374
+[24-Feb-2017 14:46:49 UTC] PHP Notice:  Undefined offset: 2 in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget-settings.php on line 1374
+[24-Feb-2017 14:46:49 UTC] PHP Notice:  Undefined offset: 2 in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget-settings.php on line 1374
+[24-Feb-2017 14:46:49 UTC] PHP Notice:  Undefined offset: 2 in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget-settings.php on line 1374
+[24-Feb-2017 14:46:49 UTC] PHP Notice:  Undefined offset: 2 in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget-settings.php on line 1374
+[24-Feb-2017 14:46:49 UTC] PHP Notice:  Undefined offset: 2 in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget-settings.php on line 1374
+[24-Feb-2017 14:46:50 UTC] PHP Notice:  Undefined offset: 2 in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget-settings.php on line 1374
+[24-Feb-2017 14:46:50 UTC] PHP Notice:  Undefined offset: 2 in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget-settings.php on line 1374
+[24-Feb-2017 14:46:50 UTC] PHP Notice:  Undefined offset: 2 in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget-settings.php on line 1374
+[24-Feb-2017 14:46:50 UTC] PHP Notice:  Undefined offset: 2 in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget-settings.php on line 1374
+[24-Feb-2017 14:46:50 UTC] PHP Notice:  Undefined offset: 2 in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget-settings.php on line 1374
+[24-Feb-2017 14:46:50 UTC] PHP Notice:  Undefined offset: 2 in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget-settings.php on line 1374
+[24-Feb-2017 14:46:50 UTC] PHP Notice:  Undefined offset: 2 in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget-settings.php on line 1374
+[24-Feb-2017 14:46:50 UTC] PHP Notice:  Undefined offset: 2 in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget-settings.php on line 1374
+[24-Feb-2017 14:46:50 UTC] PHP Notice:  Undefined offset: 2 in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget-settings.php on line 1374
+[24-Feb-2017 14:46:50 UTC] PHP Notice:  Undefined offset: 2 in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget-settings.php on line 1374
+[24-Feb-2017 14:46:50 UTC] PHP Notice:  Undefined offset: 2 in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget-settings.php on line 1374
+[24-Feb-2017 14:46:50 UTC] PHP Notice:  Undefined offset: 2 in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget-settings.php on line 1374
+[24-Feb-2017 14:46:50 UTC] PHP Notice:  Undefined offset: 2 in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget-settings.php on line 1374
+[24-Feb-2017 14:46:50 UTC] PHP Notice:  Undefined offset: 2 in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget-settings.php on line 1374
+[24-Feb-2017 14:46:50 UTC] PHP Notice:  Undefined offset: 2 in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget-settings.php on line 1374
+[24-Feb-2017 14:46:50 UTC] PHP Notice:  Undefined offset: 2 in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget-settings.php on line 1374
+[24-Feb-2017 14:46:50 UTC] PHP Notice:  Undefined offset: 2 in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget-settings.php on line 1374
+[24-Feb-2017 14:46:50 UTC] PHP Notice:  Undefined offset: 2 in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget-settings.php on line 1374
+[24-Feb-2017 14:46:50 UTC] PHP Notice:  Undefined offset: 2 in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget-settings.php on line 1374
+[24-Feb-2017 14:46:50 UTC] PHP Notice:  Undefined offset: 2 in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget-settings.php on line 1374
+[24-Feb-2017 14:46:50 UTC] PHP Notice:  Undefined offset: 2 in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget-settings.php on line 1374
+[24-Feb-2017 14:46:50 UTC] PHP Notice:  Undefined offset: 2 in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget-settings.php on line 1374
+[24-Feb-2017 14:46:50 UTC] PHP Notice:  Undefined offset: 2 in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget-settings.php on line 1374
+[24-Feb-2017 14:46:51 UTC] PHP Notice:  Undefined offset: 2 in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget-settings.php on line 1374
+[24-Feb-2017 14:46:51 UTC] PHP Notice:  Undefined offset: 2 in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget-settings.php on line 1374
+[24-Feb-2017 14:46:51 UTC] PHP Notice:  Undefined offset: 2 in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget-settings.php on line 1374
+[24-Feb-2017 14:46:51 UTC] PHP Notice:  Undefined offset: 2 in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget-settings.php on line 1374
+[24-Feb-2017 14:47:25 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 14:47:25 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:47:25 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:47:25 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:47:25 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:47:25 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:47:25 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:47:25 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:47:25 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:47:25 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:47:25 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:47:25 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:47:25 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:47:25 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:47:25 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:47:25 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:47:25 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:47:25 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:47:25 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:47:42 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 14:47:43 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:47:43 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:47:43 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:47:43 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:47:43 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:47:43 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:47:43 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:47:43 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:47:43 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:47:43 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:47:43 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:47:43 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:47:43 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:47:43 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:47:43 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:47:43 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:47:43 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:47:43 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:49:05 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 14:49:06 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:49:06 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:49:06 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:49:06 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:49:06 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:49:06 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:49:06 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:49:06 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:49:06 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:49:06 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:49:06 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:49:06 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:49:06 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:49:06 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:49:06 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:49:06 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:49:06 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:49:06 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:50:33 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 14:50:34 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:50:34 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:50:34 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:50:34 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:50:34 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:50:34 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:50:34 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:50:34 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:50:34 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:50:34 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:50:34 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:50:34 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:50:34 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:50:34 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:50:34 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:50:34 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:50:34 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 14:50:34 UTC] PHP Strict Standards:  Non-static method Birthdays_Widget::remove_empty() should not be called statically in /var/www/intranet/wp-content/plugins/birthdays-widget/class-birthdays-widget.php on line 486
+[24-Feb-2017 15:02:50 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 15:05:18 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 15:21:31 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 15:21:40 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 15:21:40 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 15:21:41 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 15:22:42 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 15:22:50 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 15:22:50 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 15:22:50 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 15:23:33 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 15:23:42 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 15:24:14 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 15:26:00 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 15:27:23 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 15:45:07 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 15:45:09 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 15:45:12 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 16:12:02 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 16:12:02 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 16:13:22 UTC] PHP Notice:  Use of undefined constant WPDM_Version - assumed 'WPDM_Version' in /var/www/intranet/wp-content/plugins/download-manager/functions.php on line 95
+[24-Feb-2017 16:14:41 UTC] PHP Notice:  Ha sucedido un error inesperado. Algo fue mal con WordPress.org o con la configuración de este servidor. Si continuas teniendo problemas, por favor prueba en los <a href="https://es.forums.wordpress.org">foros de soporte</a>. (WordPress no pudo establecer una conexión segura con WordPress.org. Por favor, contacta con el administrador de tu servidor.) in /var/www/intranet/wp-includes/update.php on line 295
+[24-Feb-2017 16:15:21 UTC] PHP Notice:  Undefined variable: data in /var/www/intranet/wp-content/plugins/download-manager/functions.php on line 170
+[24-Feb-2017 16:16:27 UTC] PHP Notice:  Ha sucedido un error inesperado. Algo fue mal con WordPress.org o con la configuración de este servidor. Si continuas teniendo problemas, por favor prueba en los <a href="https://es.forums.wordpress.org">foros de soporte</a>. (WordPress no pudo establecer una conexión segura con WordPress.org. Por favor, contacta con el administrador de tu servidor.) in /var/www/intranet/wp-includes/update.php on line 295
+[24-Feb-2017 16:17:48 UTC] PHP Notice:  Ha sucedido un error inesperado. Algo fue mal con WordPress.org o con la configuración de este servidor. Si continuas teniendo problemas, por favor prueba en los <a href="https://es.forums.wordpress.org">foros de soporte</a>. (WordPress no pudo establecer una conexión segura con WordPress.org. Por favor, contacta con el administrador de tu servidor.) in /var/www/intranet/wp-includes/update.php on line 295
+[24-Feb-2017 16:18:29 UTC] PHP Notice:  Undefined variable: data in /var/www/intranet/wp-content/plugins/download-manager/functions.php on line 170
+[24-Feb-2017 16:19:10 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 16:19:10 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 16:19:17 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 16:19:17 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 16:19:18 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 16:19:38 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 16:20:02 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 16:20:02 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 16:20:35 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 16:20:35 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 16:20:35 UTC] PHP Notice:  Undefined index: hierarchical in /var/www/intranet/wp-content/plugins/wp-filebase/classes/WidgetForms.php on line 96
+[24-Feb-2017 16:20:35 UTC] PHP Notice:  Undefined index: title in /var/www/intranet/wp-content/plugins/download-manager/wpdm-widgets.php on line 94
+[24-Feb-2017 16:20:35 UTC] PHP Notice:  Undefined index: sdc in /var/www/intranet/wp-content/plugins/download-manager/wpdm-widgets.php on line 95
+[24-Feb-2017 16:20:35 UTC] PHP Notice:  Undefined index: nop1 in /var/www/intranet/wp-content/plugins/download-manager/wpdm-widgets.php on line 96
+[24-Feb-2017 16:21:10 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 16:21:14 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 16:23:02 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 18:24:56 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 18:24:56 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 18:24:56 UTC] PHP Notice:  Undefined index: hierarchical in /var/www/intranet/wp-content/plugins/wp-filebase/classes/WidgetForms.php on line 96
+[24-Feb-2017 18:24:56 UTC] PHP Notice:  Undefined index: title in /var/www/intranet/wp-content/plugins/download-manager/wpdm-widgets.php on line 94
+[24-Feb-2017 18:24:56 UTC] PHP Notice:  Undefined index: sdc in /var/www/intranet/wp-content/plugins/download-manager/wpdm-widgets.php on line 95
+[24-Feb-2017 18:24:56 UTC] PHP Notice:  Undefined index: nop1 in /var/www/intranet/wp-content/plugins/download-manager/wpdm-widgets.php on line 96
+[24-Feb-2017 18:24:56 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 18:24:56 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 18:24:58 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 18:25:09 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 18:25:11 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 18:25:29 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 18:25:30 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 18:25:38 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 19:15:18 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 19:15:18 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 19:15:18 UTC] PHP Notice:  Undefined index: hierarchical in /var/www/intranet/wp-content/plugins/wp-filebase/classes/WidgetForms.php on line 96
+[24-Feb-2017 19:15:18 UTC] PHP Notice:  Undefined index: title in /var/www/intranet/wp-content/plugins/download-manager/wpdm-widgets.php on line 94
+[24-Feb-2017 19:15:18 UTC] PHP Notice:  Undefined index: sdc in /var/www/intranet/wp-content/plugins/download-manager/wpdm-widgets.php on line 95
+[24-Feb-2017 19:15:18 UTC] PHP Notice:  Undefined index: nop1 in /var/www/intranet/wp-content/plugins/download-manager/wpdm-widgets.php on line 96
+[24-Feb-2017 19:15:18 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 19:15:23 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 19:15:23 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 19:15:23 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 19:15:23 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 19:15:23 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 19:15:23 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 19:15:23 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 19:15:23 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 19:15:33 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 19:15:33 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 19:15:33 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 19:15:33 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 19:15:33 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 19:15:33 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 19:15:33 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 19:15:33 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 19:15:33 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 19:15:48 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-list-files.php on line 130
+[24-Feb-2017 19:15:48 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-list-files.php on line 130
+[24-Feb-2017 19:15:48 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-list-files.php on line 130
+[24-Feb-2017 19:15:48 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-list-files.php on line 130
+[24-Feb-2017 19:15:48 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-list-files.php on line 130
+[24-Feb-2017 19:15:48 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-list-files.php on line 130
+[24-Feb-2017 19:15:48 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-list-files.php on line 130
+[24-Feb-2017 19:15:48 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-list-files.php on line 130
+[24-Feb-2017 19:15:48 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-list-files.php on line 130
+[24-Feb-2017 19:15:48 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-list-files.php on line 130
+[24-Feb-2017 19:15:48 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-list-files.php on line 130
+[24-Feb-2017 19:15:48 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-list-files.php on line 130
+[24-Feb-2017 19:15:48 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-list-files.php on line 130
+[24-Feb-2017 19:15:48 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-list-files.php on line 130
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: tiny_mce in /var/www/intranet/wp-includes/class.wp-scripts.php on line 201
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Trying to get property of non-object in /var/www/intranet/wp-includes/class.wp-scripts.php on line 201
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: editor-functions in /var/www/intranet/wp-includes/class.wp-scripts.php on line 201
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Trying to get property of non-object in /var/www/intranet/wp-includes/class.wp-scripts.php on line 201
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: success in /var/www/intranet/wp-content/plugins/download-manager/download-manager.php on line 522
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: password in /var/www/intranet/wp-content/plugins/download-manager/wpdm-add-new-file.php on line 69
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: download_count in /var/www/intranet/wp-content/plugins/download-manager/wpdm-add-new-file.php on line 77
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: show_counter in /var/www/intranet/wp-content/plugins/download-manager/wpdm-add-new-file.php on line 84
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: access in /var/www/intranet/wp-content/plugins/download-manager/wpdm-add-new-file.php on line 91
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: category in /var/www/intranet/wp-content/plugins/download-manager/wpdm-add-new-file.php on line 109
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 27
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: icon in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 34
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: file in /var/www/intranet/wp-content/plugins/download-manager/wpdm-add-new-file.php on line 146
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: file in /var/www/intranet/wp-content/plugins/download-manager/wpdm-add-new-file.php on line 149
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: file in /var/www/intranet/wp-content/plugins/download-manager/wpdm-add-new-file.php on line 163
+[24-Feb-2017 19:16:24 UTC] PHP Notice:  Undefined index: task in /var/www/intranet/wp-content/plugins/download-manager/wpdm-add-new-file.php on line 387
+[24-Feb-2017 19:17:02 UTC] PHP Notice:  Undefined index: category in /var/www/intranet/wp-content/plugins/download-manager/download-manager.php on line 938
+[24-Feb-2017 19:17:03 UTC] PHP Notice:  Undefined index: file in /var/www/intranet/wp-content/plugins/download-manager/download-manager.php on line 536
+[24-Feb-2017 19:17:03 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in /var/www/intranet/wp-content/plugins/download-manager/download-manager.php on line 547
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:08 UTC] PHP Notice:  Undefined index: cid in /var/www/intranet/wp-content/plugins/download-manager/wpdm-categories.php on line 77
+[24-Feb-2017 19:17:08 UTC] PHP Notice:  Undefined index: cid in /var/www/intranet/wp-content/plugins/download-manager/wpdm-categories.php on line 83
+[24-Feb-2017 19:17:08 UTC] PHP Notice:  Undefined index:  in /var/www/intranet/wp-content/plugins/download-manager/wpdm-categories.php on line 83
+[24-Feb-2017 19:17:08 UTC] PHP Notice:  Use of undefined constant template_wraper - assumed 'template_wraper' in /var/www/intranet/wp-content/plugins/download-manager/wpdm-categories.php on line 84
+[24-Feb-2017 19:17:08 UTC] PHP Notice:  Use of undefined constant template_wraper - assumed 'template_wraper' in /var/www/intranet/wp-content/plugins/download-manager/wpdm-categories.php on line 84
+[24-Feb-2017 19:17:08 UTC] PHP Notice:  Use of undefined constant template_repeater - assumed 'template_repeater' in /var/www/intranet/wp-content/plugins/download-manager/wpdm-categories.php on line 88
+[24-Feb-2017 19:17:08 UTC] PHP Notice:  Use of undefined constant template_repeater - assumed 'template_repeater' in /var/www/intranet/wp-content/plugins/download-manager/wpdm-categories.php on line 88
+[24-Feb-2017 19:17:08 UTC] PHP Notice:  Undefined index: template_repeater in /var/www/intranet/wp-content/plugins/download-manager/wpdm-categories.php on line 88
+[24-Feb-2017 19:17:08 UTC] PHP Notice:  Undefined index: cid in /var/www/intranet/wp-content/plugins/download-manager/wpdm-categories.php on line 94
+[24-Feb-2017 19:17:08 UTC] PHP Notice:  Use of undefined constant title - assumed 'title' in /var/www/intranet/wp-content/plugins/download-manager/wpdm-categories.php on line 102
+[24-Feb-2017 19:17:08 UTC] PHP Notice:  Undefined index: title in /var/www/intranet/wp-content/plugins/download-manager/wpdm-categories.php on line 102
+[24-Feb-2017 19:17:08 UTC] PHP Notice:  Use of undefined constant content - assumed 'content' in /var/www/intranet/wp-content/plugins/download-manager/wpdm-categories.php on line 104
+[24-Feb-2017 19:17:08 UTC] PHP Notice:  Undefined index: content in /var/www/intranet/wp-content/plugins/download-manager/wpdm-categories.php on line 104
+[24-Feb-2017 19:17:08 UTC] PHP Notice:  Undefined index: parent in /var/www/intranet/wp-content/plugins/download-manager/wpdm-categories.php on line 109
+[24-Feb-2017 19:17:08 UTC] PHP Notice:  Undefined index: cid in /var/www/intranet/wp-content/plugins/download-manager/wpdm-categories.php on line 113
+[24-Feb-2017 19:17:08 UTC] PHP Notice:  Undefined index: cid in /var/www/intranet/wp-content/plugins/download-manager/wpdm-categories.php on line 137
+[24-Feb-2017 19:17:19 UTC] PHP Notice:  Use of undefined constant HTTP_REFERER - assumed 'HTTP_REFERER' in /var/www/intranet/wp-content/plugins/download-manager/download-manager.php on line 581
+[24-Feb-2017 19:17:20 UTC] PHP Notice:  Undefined index: cid in /var/www/intranet/wp-content/plugins/download-manager/wpdm-categories.php on line 77
+[24-Feb-2017 19:17:20 UTC] PHP Notice:  Undefined index: cid in /var/www/intranet/wp-content/plugins/download-manager/wpdm-categories.php on line 83
+[24-Feb-2017 19:17:20 UTC] PHP Notice:  Undefined index:  in /var/www/intranet/wp-content/plugins/download-manager/wpdm-categories.php on line 83
+[24-Feb-2017 19:17:20 UTC] PHP Notice:  Use of undefined constant template_wraper - assumed 'template_wraper' in /var/www/intranet/wp-content/plugins/download-manager/wpdm-categories.php on line 84
+[24-Feb-2017 19:17:20 UTC] PHP Notice:  Use of undefined constant template_wraper - assumed 'template_wraper' in /var/www/intranet/wp-content/plugins/download-manager/wpdm-categories.php on line 84
+[24-Feb-2017 19:17:20 UTC] PHP Notice:  Use of undefined constant template_repeater - assumed 'template_repeater' in /var/www/intranet/wp-content/plugins/download-manager/wpdm-categories.php on line 88
+[24-Feb-2017 19:17:20 UTC] PHP Notice:  Use of undefined constant template_repeater - assumed 'template_repeater' in /var/www/intranet/wp-content/plugins/download-manager/wpdm-categories.php on line 88
+[24-Feb-2017 19:17:20 UTC] PHP Notice:  Undefined index: template_repeater in /var/www/intranet/wp-content/plugins/download-manager/wpdm-categories.php on line 88
+[24-Feb-2017 19:17:20 UTC] PHP Notice:  Undefined index: cid in /var/www/intranet/wp-content/plugins/download-manager/wpdm-categories.php on line 94
+[24-Feb-2017 19:17:20 UTC] PHP Notice:  Use of undefined constant title - assumed 'title' in /var/www/intranet/wp-content/plugins/download-manager/wpdm-categories.php on line 102
+[24-Feb-2017 19:17:20 UTC] PHP Notice:  Undefined index: title in /var/www/intranet/wp-content/plugins/download-manager/wpdm-categories.php on line 102
+[24-Feb-2017 19:17:20 UTC] PHP Notice:  Use of undefined constant content - assumed 'content' in /var/www/intranet/wp-content/plugins/download-manager/wpdm-categories.php on line 104
+[24-Feb-2017 19:17:20 UTC] PHP Notice:  Undefined index: content in /var/www/intranet/wp-content/plugins/download-manager/wpdm-categories.php on line 104
+[24-Feb-2017 19:17:20 UTC] PHP Notice:  Undefined index: parent in /var/www/intranet/wp-content/plugins/download-manager/wpdm-categories.php on line 109
+[24-Feb-2017 19:17:20 UTC] PHP Notice:  Undefined index: cid in /var/www/intranet/wp-content/plugins/download-manager/wpdm-categories.php on line 113
+[24-Feb-2017 19:17:20 UTC] PHP Notice:  Undefined index: cid in /var/www/intranet/wp-content/plugins/download-manager/wpdm-categories.php on line 137
+[24-Feb-2017 19:17:25 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-list-files.php on line 130
+[24-Feb-2017 19:17:25 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-list-files.php on line 130
+[24-Feb-2017 19:17:25 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-list-files.php on line 130
+[24-Feb-2017 19:17:25 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-list-files.php on line 130
+[24-Feb-2017 19:17:25 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-list-files.php on line 130
+[24-Feb-2017 19:17:25 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-list-files.php on line 130
+[24-Feb-2017 19:17:25 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-list-files.php on line 130
+[24-Feb-2017 19:17:25 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-list-files.php on line 130
+[24-Feb-2017 19:17:25 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-list-files.php on line 130
+[24-Feb-2017 19:17:25 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-list-files.php on line 130
+[24-Feb-2017 19:17:25 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-list-files.php on line 130
+[24-Feb-2017 19:17:25 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-list-files.php on line 130
+[24-Feb-2017 19:17:25 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-list-files.php on line 130
+[24-Feb-2017 19:17:25 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-list-files.php on line 130
+[24-Feb-2017 19:17:25 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-list-files.php on line 130
+[24-Feb-2017 19:17:25 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-list-files.php on line 130
+[24-Feb-2017 19:17:27 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 19:17:27 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 19:17:27 UTC] PHP Notice:  Use of undefined constant WPDM_Version - assumed 'WPDM_Version' in /var/www/intranet/wp-content/plugins/download-manager/functions.php on line 95
+[24-Feb-2017 19:17:30 UTC] PHP Notice:  Undefined index: file in /var/www/intranet/wp-content/plugins/download-manager/download-manager.php on line 536
+[24-Feb-2017 19:17:30 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in /var/www/intranet/wp-content/plugins/download-manager/download-manager.php on line 547
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:30 UTC] PHP Strict Standards:  Only variables should be passed by reference in /var/www/intranet/wp-content/plugins/download-manager/wpdm-file-icon.php on line 24
+[24-Feb-2017 19:17:50 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 19:18:09 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 19:18:12 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 19:18:15 UTC] PHP Notice:  Undefined variable: file in /var/www/intranet/wp-content/plugins/download-manager/wpdm-free-mce-button.php on line 291
+[24-Feb-2017 19:18:15 UTC] PHP Notice:  Undefined variable: file in /var/www/intranet/wp-content/plugins/download-manager/wpdm-free-mce-button.php on line 294
+[24-Feb-2017 19:18:15 UTC] PHP Notice:  Undefined variable: file in /var/www/intranet/wp-content/plugins/download-manager/wpdm-free-mce-button.php on line 308
+[24-Feb-2017 19:18:23 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 19:18:38 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 19:18:38 UTC] PHP Notice:  Undefined variable: title in /var/www/intranet/wp-content/plugins/download-manager/download-manager.php on line 170
+[24-Feb-2017 19:18:38 UTC] PHP Notice:  Undefined variable: desc in /var/www/intranet/wp-content/plugins/download-manager/download-manager.php on line 172
+[24-Feb-2017 19:18:38 UTC] PHP Notice:  Undefined variable: template in /var/www/intranet/wp-content/plugins/download-manager/download-manager.php on line 176
+[24-Feb-2017 19:18:38 UTC] PHP Notice:  Use of undefined constant icon - assumed 'icon' in /var/www/intranet/wp-content/plugins/download-manager/download-manager.php on line 211
+[24-Feb-2017 19:18:38 UTC] PHP Notice:  Undefined variable: hc in /var/www/intranet/wp-content/plugins/download-manager/download-manager.php on line 214
+[24-Feb-2017 19:18:40 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 19:18:53 UTC] PHP Notice:  Undefined variable: file in /var/www/intranet/wp-content/plugins/download-manager/wpdm-free-mce-button.php on line 291
+[24-Feb-2017 19:18:53 UTC] PHP Notice:  Undefined variable: file in /var/www/intranet/wp-content/plugins/download-manager/wpdm-free-mce-button.php on line 294
+[24-Feb-2017 19:18:53 UTC] PHP Notice:  Undefined variable: file in /var/www/intranet/wp-content/plugins/download-manager/wpdm-free-mce-button.php on line 308
+[24-Feb-2017 19:19:00 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 19:19:04 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 19:19:14 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 19:19:14 UTC] PHP Notice:  Undefined index: cp in /var/www/intranet/wp-content/plugins/download-manager/download-manager.php on line 680
+[24-Feb-2017 19:19:14 UTC] PHP Notice:  Use of undefined constant icon - assumed 'icon' in /var/www/intranet/wp-content/plugins/download-manager/download-manager.php on line 705
+[24-Feb-2017 19:19:14 UTC] PHP Notice:  Undefined index: counter in /var/www/intranet/wp-content/plugins/download-manager/download-manager.php on line 714
+[24-Feb-2017 19:19:14 UTC] PHP Notice:  Use of undefined constant END - assumed 'END' in /var/www/intranet/wp-content/plugins/download-manager/download-manager.php on line 720
+[24-Feb-2017 19:19:14 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 19:19:25 UTC] PHP Notice:  Undefined variable: file in /var/www/intranet/wp-content/plugins/download-manager/wpdm-free-mce-button.php on line 291
+[24-Feb-2017 19:19:25 UTC] PHP Notice:  Undefined variable: file in /var/www/intranet/wp-content/plugins/download-manager/wpdm-free-mce-button.php on line 294
+[24-Feb-2017 19:19:25 UTC] PHP Notice:  Undefined variable: file in /var/www/intranet/wp-content/plugins/download-manager/wpdm-free-mce-button.php on line 308
+[24-Feb-2017 19:19:51 UTC] PHP Notice:  Undefined property: WP_Query::$post in /var/www/intranet/wp-includes/query.php on line 3960
+[24-Feb-2017 19:19:51 UTC] PHP Notice:  Undefined index: cp in /var/www/intranet/wp-content/plugins/download-manager/download-manager.php on line 680
+[24-Feb-2017 19:19:51 UTC] PHP Notice:  Use of undefined constant icon - assumed 'icon' in /var/www/intranet/wp-content/plugins/download-manager/download-manager.php on line 705
+[24-Feb-2017 19:19:51 UTC] PHP Notice:  Undefined index: counter in /var/www/intranet/wp-content/plugins/download-manager/download-manager.php on line 714
+[24-Feb-2017 19:19:51 UTC] PHP Notice:  Use of undefined constant END - assumed 'END' in /var/www/intranet/wp-content/plugins/download-manager/download-manager.php on line 720
+[24-Feb-2017 19:21:56 UTC] PHP Notice:  Ha sucedido un error inesperado. Algo fue mal con WordPress.org o con la configuración de este servidor. Si continuas teniendo problemas, por favor prueba en los <a href="https://es.forums.wordpress.org">foros de soporte</a>. (WordPress no pudo establecer una conexión segura con WordPress.org. Por favor, contacta con el administrador de tu servidor.) in /var/www/intranet/wp-includes/update.php on line 295
+[24-Feb-2017 19:22:36 UTC] PHP Notice:  Undefined variable: data in /var/www/intranet/wp-content/plugins/download-manager/functions.php on line 170
+[24-Feb-2017 19:22:49 UTC] PHP Notice:  Undefined index: title in /var/www/intranet/wp-content/plugins/download-manager/wpdm-widgets.php on line 94
+[24-Feb-2017 19:22:49 UTC] PHP Notice:  Undefined index: sdc in /var/www/intranet/wp-content/plugins/download-manager/wpdm-widgets.php on line 95
+[24-Feb-2017 19:22:49 UTC] PHP Notice:  Undefined index: nop1 in /var/www/intranet/wp-content/plugins/download-manager/wpdm-widgets.php on line 96
+[24-Feb-2017 19:26:36 UTC] PHP Notice:  Undefined index: cp in /var/www/intranet/wp-content/plugins/download-manager/download-manager.php on line 680
+[24-Feb-2017 19:26:36 UTC] PHP Notice:  Use of undefined constant icon - assumed 'icon' in /var/www/intranet/wp-content/plugins/download-manager/download-manager.php on line 705
+[24-Feb-2017 19:26:36 UTC] PHP Notice:  Undefined index: counter in /var/www/intranet/wp-content/plugins/download-manager/download-manager.php on line 714
+[24-Feb-2017 19:26:36 UTC] PHP Notice:  Use of undefined constant END - assumed 'END' in /var/www/intranet/wp-content/plugins/download-manager/download-manager.php on line 720
+[24-Feb-2017 19:27:08 UTC] PHP Notice:  Undefined index: title in /var/www/intranet/wp-content/plugins/download-manager/wpdm-widgets.php on line 94
+[24-Feb-2017 19:27:08 UTC] PHP Notice:  Undefined index: sdc in /var/www/intranet/wp-content/plugins/download-manager/wpdm-widgets.php on line 95
+[24-Feb-2017 19:27:08 UTC] PHP Notice:  Undefined index: nop1 in /var/www/intranet/wp-content/plugins/download-manager/wpdm-widgets.php on line 96
+[24-Feb-2017 19:46:10 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\intranet\wp-includes\class-http.php on line 1589
+[24-Feb-2017 19:47:12 UTC] PHP Notice:  Use of undefined constant WPDM_Version - assumed 'WPDM_Version' in C:\xampp\htdocs\intranet\wp-content\plugins\download-manager\functions.php on line 95
+[24-Feb-2017 19:47:24 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\intranet\wp-includes\class-http.php on line 1574
+[24-Feb-2017 19:47:48 UTC] PHP Notice:  Undefined index: date_format in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\birthdays-widget-ajax-callback.php on line 32
+[24-Feb-2017 19:47:48 UTC] PHP Notice:  Undefined index: date_from_profile in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\birthdays-widget-ajax-callback.php on line 36
+[24-Feb-2017 19:47:48 UTC] PHP Notice:  Undefined index: tooltip in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget.php on line 121
+[24-Feb-2017 19:47:48 UTC] PHP Notice:  Undefined index: image_enabled in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget.php on line 125
+[24-Feb-2017 19:47:48 UTC] PHP Notice:  Undefined index: user_image_enabled in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget.php on line 135
+[24-Feb-2017 19:47:48 UTC] PHP Notice:  Undefined index: wish_disabled in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget.php on line 143
+[24-Feb-2017 19:47:48 UTC] PHP Notice:  Undefined index: wish in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget.php on line 144
+[24-Feb-2017 19:47:48 UTC] PHP Notice:  Undefined index: meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget.php on line 152
+[24-Feb-2017 19:47:48 UTC] PHP Notice:  Undefined index: photo_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget.php on line 153
+[24-Feb-2017 19:47:48 UTC] PHP Notice:  Undefined index: photo_meta_field_enabled in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget.php on line 202
+[24-Feb-2017 19:47:48 UTC] PHP Notice:  Undefined index: user_image_enabled in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget.php on line 219
+[24-Feb-2017 19:47:48 UTC] PHP Notice:  Undefined index: user_image_enabled in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget.php on line 262
+[24-Feb-2017 19:47:48 UTC] PHP Notice:  Undefined index: user_verbiage in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget.php on line 276
+[24-Feb-2017 19:48:46 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\intranet\wp-includes\class-http.php on line 1574
+[24-Feb-2017 19:49:05 UTC] PHP Notice:  Undefined index: date_format in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\birthdays-widget-ajax-callback.php on line 32
+[24-Feb-2017 19:49:05 UTC] PHP Notice:  Undefined index: date_from_profile in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\birthdays-widget-ajax-callback.php on line 36
+[24-Feb-2017 19:49:05 UTC] PHP Notice:  Undefined index: tooltip in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget.php on line 121
+[24-Feb-2017 19:49:05 UTC] PHP Notice:  Undefined index: image_enabled in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget.php on line 125
+[24-Feb-2017 19:49:05 UTC] PHP Notice:  Undefined index: user_image_enabled in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget.php on line 135
+[24-Feb-2017 19:49:05 UTC] PHP Notice:  Undefined index: wish_disabled in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget.php on line 143
+[24-Feb-2017 19:49:05 UTC] PHP Notice:  Undefined index: wish in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget.php on line 144
+[24-Feb-2017 19:49:05 UTC] PHP Notice:  Undefined index: meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget.php on line 152
+[24-Feb-2017 19:49:05 UTC] PHP Notice:  Undefined index: photo_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget.php on line 153
+[24-Feb-2017 19:49:05 UTC] PHP Notice:  Undefined index: photo_meta_field_enabled in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget.php on line 202
+[24-Feb-2017 19:49:05 UTC] PHP Notice:  Undefined index: user_image_enabled in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget.php on line 219
+[24-Feb-2017 19:49:05 UTC] PHP Notice:  Undefined index: user_image_enabled in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget.php on line 262
+[24-Feb-2017 19:49:05 UTC] PHP Notice:  Undefined index: user_verbiage in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget.php on line 276
+[24-Feb-2017 19:49:21 UTC] PHP Notice:  Undefined index: date_format in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 950
+[24-Feb-2017 19:49:21 UTC] PHP Notice:  Undefined index: date_format in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\birthdays-widget-ajax-callback.php on line 32
+[24-Feb-2017 19:49:21 UTC] PHP Notice:  Undefined index: date_from_profile in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\birthdays-widget-ajax-callback.php on line 36
+[24-Feb-2017 19:49:21 UTC] PHP Notice:  Undefined index: date_format in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 1069
+[24-Feb-2017 19:49:21 UTC] PHP Notice:  Undefined index: meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 1091
+[24-Feb-2017 19:49:21 UTC] PHP Notice:  Undefined index: date_format in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 1205
+[24-Feb-2017 19:49:21 UTC] PHP Notice:  Undefined index: user_image_url in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 1307
+[24-Feb-2017 19:49:31 UTC] PHP Notice:  Undefined index: roles in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 290
+[24-Feb-2017 19:49:31 UTC] PHP Notice:  Undefined index: wish in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 313
+[24-Feb-2017 19:49:31 UTC] PHP Notice:  Undefined index: wish_disabled in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 326
+[24-Feb-2017 19:49:31 UTC] PHP Notice:  Undefined index: wish_disabled in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 327
+[24-Feb-2017 19:49:31 UTC] PHP Notice:  Undefined index: empty_response in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 341
+[24-Feb-2017 19:49:31 UTC] PHP Notice:  Undefined index: empty_response in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 342
+[24-Feb-2017 19:49:31 UTC] PHP Notice:  Undefined index: empty_response_text in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 355
+[24-Feb-2017 19:49:31 UTC] PHP Notice:  Undefined index: register_form in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 368
+[24-Feb-2017 19:49:31 UTC] PHP Notice:  Undefined index: register_form in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 369
+[24-Feb-2017 19:49:31 UTC] PHP Notice:  Undefined index: comma in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 383
+[24-Feb-2017 19:49:31 UTC] PHP Notice:  Undefined index: comma in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 384
+[24-Feb-2017 19:49:31 UTC] PHP Notice:  Undefined index: user_verbiage in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 402
+[24-Feb-2017 19:49:31 UTC] PHP Notice:  Undefined index: user_verbiage in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 403
+[24-Feb-2017 19:49:31 UTC] PHP Notice:  Undefined index: user_verbiage_text in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 416
+[24-Feb-2017 19:49:31 UTC] PHP Notice:  Undefined index: tooltip in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 429
+[24-Feb-2017 19:49:31 UTC] PHP Notice:  Undefined index: tooltip in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 430
+[24-Feb-2017 19:49:31 UTC] PHP Notice:  Undefined index: user_data in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 447
+[24-Feb-2017 19:49:31 UTC] PHP Notice:  Undefined index: user_data in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 449
+[24-Feb-2017 19:49:31 UTC] PHP Notice:  Undefined index: user_data in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 452
+[24-Feb-2017 19:49:31 UTC] PHP Notice:  Undefined index: user_data in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 454
+[24-Feb-2017 19:49:31 UTC] PHP Notice:  Undefined index: user_data in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 456
+[24-Feb-2017 19:49:31 UTC] PHP Notice:  Undefined variable: tmp in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 901
+[24-Feb-2017 19:49:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 901
+[24-Feb-2017 19:49:31 UTC] PHP Notice:  Undefined index: date_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 467
+[24-Feb-2017 19:49:31 UTC] PHP Notice:  Undefined index: date_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 467
+[24-Feb-2017 19:49:31 UTC] PHP Notice:  Undefined index: date_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 467
+[24-Feb-2017 19:49:31 UTC] PHP Notice:  Undefined index: date_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 467
+[24-Feb-2017 19:49:31 UTC] PHP Notice:  Undefined index: date_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 467
+[24-Feb-2017 19:49:31 UTC] PHP Notice:  Undefined index: date_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 467
+[24-Feb-2017 19:49:31 UTC] PHP Notice:  Undefined index: date_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 467
+[24-Feb-2017 19:49:31 UTC] PHP Notice:  Undefined index: date_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 467
+[24-Feb-2017 19:49:31 UTC] PHP Notice:  Undefined index: date_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 467
+[24-Feb-2017 19:49:31 UTC] PHP Notice:  Undefined index: date_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 467
+[24-Feb-2017 19:49:31 UTC] PHP Notice:  Undefined index: date_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 467
+[24-Feb-2017 19:49:31 UTC] PHP Notice:  Undefined index: date_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 467
+[24-Feb-2017 19:49:31 UTC] PHP Notice:  Undefined index: date_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 467
+[24-Feb-2017 19:49:31 UTC] PHP Notice:  Undefined index: date_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 467
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: date_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 467
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: date_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 467
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: date_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 467
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: date_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 467
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: date_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 467
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: date_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 467
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: date_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 467
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: date_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 467
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: date_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 467
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: date_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 467
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: date_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 467
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: date_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 467
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: date_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 467
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: date_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 467
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: date_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 467
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: date_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 467
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: date_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 467
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: date_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 467
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: user_data in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 474
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: user_data in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 476
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: date_format in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 486
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined variable: tmp in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 901
+[24-Feb-2017 19:49:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 901
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 524
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 524
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 524
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 524
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 524
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 524
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 524
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 524
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 524
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 524
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 524
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 524
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 524
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 524
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 524
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 524
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 524
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 524
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 524
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 524
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 524
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 524
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 524
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 524
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 524
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 524
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 524
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 524
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 524
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 524
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 524
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 524
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: user_profile_link in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 544
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: user_profile_link in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 545
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: bdpress_friends_only in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 559
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: bdpress_friends_only in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 560
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: image_enabled in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 573
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: user_image_enabled in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 574
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: image_url in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 575
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: image_url in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 579
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: user_image_url in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 581
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: user_image_url in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 585
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: image_url in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 601
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: user_image_url in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 624
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: image_width in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 647
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: list_image_width in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 649
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: wp_user_gravatar in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 661
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: wp_user_gravatar in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 662
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: photo_meta_field_enabled in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 679
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: photo_meta_field_enabled in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 680
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined variable: tmp in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 901
+[24-Feb-2017 19:49:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 901
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: photo_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 705
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: photo_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 705
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: photo_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 705
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: photo_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 705
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: photo_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 705
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: photo_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 705
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: photo_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 705
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: photo_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 705
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: photo_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 705
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: photo_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 705
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: photo_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 705
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: photo_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 705
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: photo_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 705
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: photo_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 705
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: photo_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 705
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: photo_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 705
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: photo_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 705
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: photo_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 705
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: photo_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 705
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: photo_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 705
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: photo_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 705
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: photo_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 705
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: photo_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 705
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: photo_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 705
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: photo_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 705
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: photo_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 705
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: photo_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 705
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: photo_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 705
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: photo_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 705
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: photo_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 705
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: photo_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 705
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: photo_meta_field in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 705
+[24-Feb-2017 19:49:32 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 726
+[24-Feb-2017 19:49:32 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 726
+[24-Feb-2017 19:49:32 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 726
+[24-Feb-2017 19:49:32 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 726
+[24-Feb-2017 19:49:32 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 726
+[24-Feb-2017 19:49:32 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 726
+[24-Feb-2017 19:49:32 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 726
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: color_current_day in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 741
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: color_one in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 754
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: second_color in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 761
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: color_two in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 786
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: upcoming_mode in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 807
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: upcoming_mode in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 808
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: upcoming_days_birthdays in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 826
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: upcoming_consecutive_days in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 839
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: upcoming_year in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 852
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: upcoming_year in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 853
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: upcoming_year_seperate in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 867
+[24-Feb-2017 19:49:32 UTC] PHP Notice:  Undefined index: upcoming_year_seperate in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 868
+[24-Feb-2017 19:49:50 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\intranet\wp-includes\class-http.php on line 1574
+[24-Feb-2017 19:50:43 UTC] PHP Notice:  Undefined index: roles in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 62
+[24-Feb-2017 19:50:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 63
+[24-Feb-2017 19:50:43 UTC] PHP Notice:  Undefined variable: tmp in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 901
+[24-Feb-2017 19:50:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 901
+[24-Feb-2017 19:50:43 UTC] PHP Notice:  Undefined variable: tmp in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 901
+[24-Feb-2017 19:50:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 901
+[24-Feb-2017 19:50:43 UTC] PHP Notice:  Undefined variable: tmp in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 901
+[24-Feb-2017 19:50:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 901
+[24-Feb-2017 19:50:43 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 726
+[24-Feb-2017 19:50:43 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 726
+[24-Feb-2017 19:50:43 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 726
+[24-Feb-2017 19:50:43 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 726
+[24-Feb-2017 19:50:43 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 726
+[24-Feb-2017 19:50:43 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 726
+[24-Feb-2017 19:50:43 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 726
+[24-Feb-2017 19:51:05 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\intranet\wp-includes\class-http.php on line 1574
+[24-Feb-2017 19:51:28 UTC] PHP Notice:  Undefined index: roles in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 62
+[24-Feb-2017 19:51:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 63
+[24-Feb-2017 19:51:28 UTC] PHP Notice:  Undefined variable: tmp in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 901
+[24-Feb-2017 19:51:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 901
+[24-Feb-2017 19:51:28 UTC] PHP Notice:  Undefined variable: tmp in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 901
+[24-Feb-2017 19:51:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 901
+[24-Feb-2017 19:51:28 UTC] PHP Notice:  Undefined variable: tmp in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 901
+[24-Feb-2017 19:51:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 901
+[24-Feb-2017 19:51:28 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 726
+[24-Feb-2017 19:51:28 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 726
+[24-Feb-2017 19:51:28 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 726
+[24-Feb-2017 19:51:28 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 726
+[24-Feb-2017 19:51:28 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 726
+[24-Feb-2017 19:51:28 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 726
+[24-Feb-2017 19:51:28 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 726
+[24-Feb-2017 19:52:10 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\intranet\wp-includes\class-http.php on line 1574
+[24-Feb-2017 19:52:17 UTC] PHP Notice:  Undefined index: title in C:\xampp\htdocs\intranet\wp-content\plugins\download-manager\wpdm-widgets.php on line 94
+[24-Feb-2017 19:52:17 UTC] PHP Notice:  Undefined index: sdc in C:\xampp\htdocs\intranet\wp-content\plugins\download-manager\wpdm-widgets.php on line 95
+[24-Feb-2017 19:52:17 UTC] PHP Notice:  Undefined index: nop1 in C:\xampp\htdocs\intranet\wp-content\plugins\download-manager\wpdm-widgets.php on line 96
+[24-Feb-2017 19:54:20 UTC] PHP Notice:  Undefined variable: tmp in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 901
+[24-Feb-2017 19:54:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 901
+[24-Feb-2017 19:54:20 UTC] PHP Notice:  Undefined variable: tmp in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 901
+[24-Feb-2017 19:54:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 901
+[24-Feb-2017 19:54:20 UTC] PHP Notice:  Undefined variable: tmp in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 901
+[24-Feb-2017 19:54:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 901
+[24-Feb-2017 19:54:20 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 726
+[24-Feb-2017 19:54:20 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 726
+[24-Feb-2017 19:54:20 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 726
+[24-Feb-2017 19:54:20 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 726
+[24-Feb-2017 19:54:20 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 726
+[24-Feb-2017 19:54:20 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 726
+[24-Feb-2017 19:54:20 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\intranet\wp-content\plugins\birthdays-widget\class-birthdays-widget-settings.php on line 726
+[24-Feb-2017 19:57:10 UTC] PHP Notice:  Undefined index: cp in C:\xampp\htdocs\intranet\wp-content\plugins\download-manager\download-manager.php on line 680
+[24-Feb-2017 19:57:10 UTC] PHP Notice:  Use of undefined constant icon - assumed 'icon' in C:\xampp\htdocs\intranet\wp-content\plugins\download-manager\download-manager.php on line 705
+[24-Feb-2017 19:57:10 UTC] PHP Notice:  Undefined index: counter in C:\xampp\htdocs\intranet\wp-content\plugins\download-manager\download-manager.php on line 714
+[24-Feb-2017 19:57:10 UTC] PHP Notice:  Use of undefined constant END - assumed 'END' in C:\xampp\htdocs\intranet\wp-content\plugins\download-manager\download-manager.php on line 720

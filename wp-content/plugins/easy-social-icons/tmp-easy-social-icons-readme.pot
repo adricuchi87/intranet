@@ -1,0 +1,240 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Easy Social Icons"
+msgstr ""
+
+#. Short description.
+msgid "Using this social media plugin you can upload your own social icon, set your social URL, choose whether you want to display vertically or horizontally"
+msgstr ""
+
+#. Screenshot description.
+msgid "add new icon page layout"
+msgstr ""
+
+#. Screenshot description.
+msgid "manage icons page layout"
+msgstr ""
+
+#. Screenshot description.
+msgid "options page layout"
+msgstr ""
+
+#. Screenshot description.
+msgid "display social icons vertically in sidebar using widget"
+msgstr ""
+
+#. Screenshot description.
+msgid "display social icons vertically in page using shortcode [cn-social-icon]"
+msgstr ""
+
+#. Screenshot description.
+msgid "display social icons horizontally in sidebar using widget"
+msgstr ""
+
+#. Screenshot description.
+msgid "display social icons split by number of rows"
+msgstr ""
+
+#. Screenshot description.
+msgid "sort icons usign drag drop"
+msgstr ""
+
+#. Found in description header.
+msgid "Key Feature"
+msgstr ""
+
+#. Found in description list item.
+msgid "You can upload your own social icons, set URL for that icon with sort order, target windows etc."
+msgstr ""
+
+#. Found in description list item.
+msgid "Work with responsive website"
+msgstr ""
+
+#. Found in description list item.
+msgid "You will get the add/edit/delete option for icons"
+msgstr ""
+
+#. Found in description list item.
+msgid "You can set the icon width and height to fit in your template/design perfectly"
+msgstr ""
+
+#. Found in description list item.
+msgid "You can display your social share icons vertically or horizontally to match perfectly with your template/design."
+msgstr ""
+
+#. Found in description list item.
+msgid "You can put your social icon set in the sidebar using the widget"
+msgstr ""
+
+#. Found in description list item.
+msgid "You can insert your social icon set in pages/posts using shortcode"
+msgstr ""
+
+#. Found in description list item.
+msgid "Sort social media icons using drag drop"
+msgstr ""
+
+#. Found in description list item.
+msgid "Also if you are familiar with PHP code then you can use the template tag to place the social icon set anywhere in the PHP template file"
+msgstr ""
+
+#. Found in description list item.
+msgid "Responsive feature added"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "You can upload your own social icon, set your social URL, choose whether you want to display vertically or horizontally. You can use the shortcode <strong>[cn-social-icon]</strong> in page/post, template tag for PHP file, <strong>&lt;?php if ( function_exists('cn_social_icon') ) echo cn_social_icon(); ?&gt;</strong> also you can use the widget <strong>\"Easy Social Icons\"</strong> for the sidebar."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>There is no predefined/built-in social icon added in this plugin, you have to upload your own custom social icons first.</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid ""
+"If you are using <strong>wordpress version lower than 3.5</strong> please use \"Easy Social Icons\" version\n"
+"<a href=\"https://downloads.wordpress.org/plugin/easy-social-icons.1.0.zip\">1.1</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>PAID SUPPORT ($30/Hr, We ACCEPT PAYPAL )</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "We assume most of the users would find it easy to install &amp; use this plugin but those who needs <strong><em>PAID SUPPORT</em></strong> on any of the following:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>a. Get the plugin installed </strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>b. Custom feature, custom theme </strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>c. Auditing your wordpress theme &amp; hosting environment</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>d. Google analytics &amp; webmaster tools support</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>e. Custom social icon set $35</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "please send an email to this address <a href=\"mailto:support@cybernetikz.com\">support@cybernetikz.com</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Please visit our site <a href=\"http://www.cybernetikz.com/blog/wordpress-plugins-easy-social-icons/\">www.cybernetikz.com/</a>"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Download the plugin and extract the files"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Upload \"easy-social-icons\" to your wp-content/plugins/ directory"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin through the 'Plugins' menu in WordPress"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Check the \"Easy Social Icon\" Tab created by this plugins for setup."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Banner added in plugins pages"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix, Security updates"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "CSS fix"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Rsponsive feature added"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Security updates"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "PHP notice/warning fix"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix on WordPress media uploader for different WordPress version"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Integrate WordPress default media uploader"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Some security updates"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Remove preloaded sample icon as icon upload method change"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "icon upload folder fix"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add sorting icon using drag drop"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Built in 5 social icons preloaded as sample icon, to save your time (facebook, twitter, linkedin, flickr, youtube)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Now you can display the icons split by rows, input the number of rows in the plugins admin option page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Css fixes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Icons width / height adjustment fix"
+msgstr ""
+
+#. Found in faq header.
+msgid "Ques : How use this plugins?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Ques : What if my wordpress version is below 3.5?"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"Ans : \n"
+"Use this shortcode for page/post <strong>[cn-social-icon]</strong> , for php code use this template tag <strong>&lt;?php if ( function_exists('cn_social_icon') ) echo cn_social_icon(); ?&gt;</strong>"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Also you can use the widget for the sidebar."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"Ans : \n"
+"If you are using wordpress version lower than 3.5 please use Easy social Icon version <a href=\"https://downloads.wordpress.org/plugin/easy-social-icons.1.0.zip\">1.1</a>"
+msgstr ""
